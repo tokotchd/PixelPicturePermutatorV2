@@ -3,6 +3,6 @@ Pythonic update to PixelPicturePermutator using clean, inspired, and fast python
 
 Examples:
 
-![Dota2](https://github.com/tokotchd/PixelPicturePermutatorV2/blob/master/dota2_output.png?raw=true)
+![Dota2](https://github.com/tokotchd/PixelPicturePermutatorV2/blob/main/dota2_output.png)
 
-![Hades](https://github.com/tokotchd/PixelPicturePermutatorV2/blob/master/hades_output.png?raw=true)
+![Hades](https://github.com/tokotchd/PixelPicturePermutatorV2/blob/main/hades_output.png)
